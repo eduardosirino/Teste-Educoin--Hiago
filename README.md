@@ -44,6 +44,11 @@ Precisara criar uma aplicação com nextjs, o visual ficara de escopo aberto pod
  - Mostrar error e fazer validação no formulário de login
  - Na página de login precisa validar se o usuário se fica na aplicação ou vai para a dashboard.
  - Precisará página quando o for ligar como CLIENTE mostrar os dados pessoais e listagem dos usuários da API.
+   
+-----
+-----
+-----
+-----
 
 ## Documentação
 Descreva a documentação do projeto de forma simples, e como ponto necessário, documentar os comandos de start do projeto.
